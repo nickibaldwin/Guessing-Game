@@ -1,13 +1,18 @@
 body{
   background-color: red;
+  color: darkgrey;
   
 }
 
-h1 {
-  color: gray;
-
+div{
+  float: left;
+  height: 100px ;
+  width: 100px;
+  border: solid black;
+  margin: 20px;
+  color: whitesmoke;
 }
 
-main{
-  background-color: beige;
+p {
+  clear: both;
 }
