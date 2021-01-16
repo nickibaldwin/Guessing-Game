@@ -1,6 +1,14 @@
+h1{
+  text-align: center;
+  color: black;
+}
+
+h2{
+  color: #63591d;
+}
 body{
-  background-color: red;
-  color: darkgrey;
+  background-color: #c8c8c8c8;
+  color: rgb(61, 59, 59);
   
 }
 
